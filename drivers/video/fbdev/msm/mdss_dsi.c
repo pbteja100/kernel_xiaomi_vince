@@ -38,7 +38,6 @@
 #include "mdss_smmu.h"
 /*Add by HQ-zmc [Date: 2017-11-18 13:28:24]*/
 #include <linux/delay.h>
-
 #define XO_CLK_RATE	19200000
 #define CMDLINE_DSI_CTL_NUM_STRING_LEN 2
 
